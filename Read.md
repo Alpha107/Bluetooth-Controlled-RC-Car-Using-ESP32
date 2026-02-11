@@ -36,7 +36,9 @@ The project helps in understanding the fundamentals of embedded systems, motor c
 *The ESP32 receives Bluetooth commands from a smartphone and controls the motor driver to move the car. LEDs and buzzer provide status alerts.*
 
 ### Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.png)  
+
+<img width="1536" height="899" alt="CircuitDiagram" src="https://github.com/user-attachments/assets/8bfc1d0c-49d5-45d5-89fe-c71f7e4ea7e9" />
+
 *The ESP32 GPIO pins are connected to the L298N motor driver and sensors. Power is supplied separately to ensure stable operation.*
 
 ---
